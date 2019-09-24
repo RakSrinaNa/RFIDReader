@@ -5,4 +5,4 @@
 # RFIDReader
 Library used to read RFID cards.
 
-This was made for my [RFID project](https://gitlab.com/MrCraftCod/StudentsCardsAttendance).
+This was made for my [RFID project](https://github.com/RakSrinaNa/PEIP1---StudentsCardsAttendance).
